@@ -1,2 +1,3 @@
-# MV42-Web
-Codebase of mv42.dev web side
+# MV42.dev
+Web side codebase of:
+mv42.dev
